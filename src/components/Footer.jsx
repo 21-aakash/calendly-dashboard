@@ -26,7 +26,7 @@ const Footer = () => {
               for your team's goals - whether by availability, priority or
               equity.
             </p>
-            <a className="mb-4 text-blue-600" href="">Watch Vidoe</a>
+            <a className="mb-4 text-blue-600" href="">Watch Video</a>
           </div>
         </div>
         <div className=" mt-10 border-2 rounded-md p-6 md:flex  sm:mx-3 w-80 sm:w-3/4  " >

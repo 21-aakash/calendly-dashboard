@@ -58,9 +58,10 @@ const Dashboard = () => {
            Managed Events 
           </a>
      
-       <button  className= " ml-4 py-1 px-3 font-bold text-[10px] sm:text-xs bg-blue-500 text-white rounded-md" >BETA</button>
-     
+      
             </li>
+            <button  className= " ml-2 py-0.5 px-1 sm:py-1 sm:px-3 sm:font-bold text-[8px] sm:text-xs bg-blue-500 text-white rounded-md" >BETA</button>
+     
           </ul>
         </div>
       </nav>
